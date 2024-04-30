@@ -13,10 +13,13 @@ use math function
 ### Step 4: 
 end program
 ## Program:
+```
 import numpy as np
 a=[[3,2,5],[1,1,2],[3,3,6]]
 b=np.linalg.matrix_rank(a)
 print(b)
+
+```
 ## Output:
 ![output]![Screenshot from 2023-11-30 19-46-20](https://github.com/premsuryas/RANK-OF-A-MATRIX/assets/147473858/3f731534-4786-4604-8304-73246553688d)
 ()
